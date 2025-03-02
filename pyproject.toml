@@ -1,0 +1,23 @@
+[project]
+name = "temporal-clue"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "black>=25.1.0",
+    "ipykernel>=6.29.5",
+    "ortools==9.11.4210",
+    "pandas>=2.2.3",
+    "pillow>=11.1.0",
+    "pytest>=8.3.4",
+    "pytest-snapshot>=0.9.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["temporal_clue/tests"]
+python_files = "test_*.py"
+filterwarnings = [
+    "ignore:Type google\\._upb\\._message\\.MessageMapContainer uses PyType_Spec with a metaclass that has custom tp_new.*:DeprecationWarning",
+    "ignore:Type google\\._upb\\._message\\.ScalarMapContainer uses PyType_Spec with a metaclass that has custom tp_new.*:DeprecationWarning"
+]

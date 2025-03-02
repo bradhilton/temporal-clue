@@ -1,0 +1,12 @@
+{
+  "num_clues": 4,
+  "prompt": "On a dark winter night, wealthy and enigmatic Mr. John Q. Boddy hosted a small, but lavish, dinner party for some of his closest associates. However, the night ended in tragedy when Mr. Boddy was found dead in one of the rooms of Tudor Mansion in the early hours of the morning. The following persons of interest have been identified as suspects:\n\n\u2022 Mr. Green\n\u2022 Monsieur Brunette\n\nAnd the following weapons were found on the premises:\n\n\u2022 Knife\n\u2022 Rope\n\nThe murder could only have occured in one of the following rooms:\n\n1. Gazebo\n2. Lounge\n\nThe rooms are laid out as follows:\n\n  N  \nW 1 E\nW 2 E\n  S  \n\nEach suspect uniquely had one of the following possible motives for killing Mr. Boddy:\n\n\u2022 Jealousy\n\u2022 Power\n\nFor the murder to occur, the murderer and Mr. Boddy must have been alone in a room with at least one weapon.\n\nThe available clues are as follows:\n\n- The murderer was in the Lounge if and only if Mr. Green was in the Gazebo\n- Monsieur Brunette was in the Gazebo or the suspect motivated by Jealousy was in the Gazebo\n- The murderer was in the Gazebo\n- The Rope was in the Lounge\n\nPlease answer the following question(s):\n\nA. Who murdered Mr. Boddy?\nB. What weapon did the murderer use?\nC. Where was the murder committed?\nD. Why did the murderer do it?\n\nAnd the following bonus question(s):\n\nE. Where was the suspect motivated by Power?\nF. Who is motivated by Power?\n\nFill out your final answers in the following format:\n\nA. SUSPECT\nB. WEAPON\nC. ROOM\nD. MOTIVE\nE. ROOM\nF. SUSPECT\n\nBest of luck, detective.",
+  "solution": {
+    "A": "Monsieur Brunette",
+    "B": "Knife",
+    "C": "Gazebo",
+    "D": "Power",
+    "E": "Gazebo",
+    "F": "Monsieur Brunette"
+  }
+}
