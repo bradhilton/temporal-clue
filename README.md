@@ -95,7 +95,7 @@ G. ROOM
 Best of luck, detective.
 ```
 
-The solution is:
+The solution to the above puzzle is:
 
 ```md
 A. Professor Plum
