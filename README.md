@@ -21,7 +21,7 @@ Each puzzle provides:
 - Motives (optional)
 - Logical clues
 
-LLMs must then answer a series of questions, usually including the classic who, (with) what, and where, and the new when and why, as well as a few bonus questions. Here is a very simple example with few variables and clues:
+LLMs must then answer a series of questions, usually including the classic who, (with) what, and where, and the new when and why, as well as a few bonus questions. Here is a simple example with few variables and clues:
 
 ```md
 On a dark winter night, wealthy and enigmatic Mr. John Q. Boddy hosted a small, but lavish, dinner party for some of his closest associates. However, the night ended in tragedy when Mr. Boddy was found dead in one of the rooms of Tudor Mansion in the early hours of the morning. The following persons of interest have been identified as suspects:
