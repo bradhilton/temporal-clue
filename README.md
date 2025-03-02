@@ -1,6 +1,6 @@
 # Temporal Clue
 
-A benchmark testing LLMs' deductive reasoning through Clue-inspired puzzles with temporal and spatial dimensions.
+A benchmark testing LLMs' deductive reasoning through Clue-inspired puzzles with temporal and spatial dimensions. The puzzles are generated with code and clues chosen using OR-Tools' CP-SAT solver.
 
 ## Overview
 
@@ -41,10 +41,10 @@ The murder could only have occured in one of the following rooms:
 
 The rooms are laid out as follows:
 
-  N  
+N  
 W 1 E
 W 2 E
-  S
+S
 
 The exact time of the murder is a bit uncertain, but it has been narrowed down to one of the following times:
 
