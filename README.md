@@ -97,6 +97,7 @@ Best of luck, detective.
 
 The solution is:
 
+```md
 A. Professor Plum
 B. Poison
 C. Fountain
@@ -104,6 +105,7 @@ D. 11:45 PM
 E. Jealousy
 F. Ballroom
 G. Fountain
+```
 
 ## Evaluation
 
