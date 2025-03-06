@@ -1,6 +1,6 @@
 # Temporal Clue
 
-A benchmark testing LLMs' deductive reasoning through Clue-inspired puzzles with temporal and spatial dimensions. The puzzles are generated with code and clues chosen using OR-Tools' CP-SAT solver.
+A benchmark testing LLMs' deductive reasoning through Clue-inspired puzzles with temporal and spatial dimensions. The puzzles are generated with code and clues chosen using OR-Tools' CP-SAT solver. See `example.ipynb` for how to generate your own puzzles.
 
 ## Overview
 
