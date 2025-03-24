@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/d36443e9-197b-4413-b045-09690b11ade3)
+
+
 # Temporal Clue
 
 A benchmark testing LLMs' deductive reasoning through Clue-inspired puzzles with temporal and spatial dimensions. The puzzles are generated with code and clues chosen using OR-Tools' CP-SAT solver. See [example.ipynb](https://github.com/bradhilton/temporal-clue/blob/main/example.ipynb) for how to generate your own puzzles.
